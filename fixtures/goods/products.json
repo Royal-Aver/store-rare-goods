@@ -1,0 +1,86 @@
+[
+  {
+    "model": "goods.products",
+    "pk": 3,
+    "fields": {
+      "name": "Canon AE-1",
+      "slug": "canon-ae-1",
+      "price": "1099.00",
+      "discount": "10.00",
+      "image": "products_images/canon-ae-1.jpg",
+      "description": "The Canon AE-1 is a 35 mm single-lens reflex (SLR) film camera for use with interchangeable lenses. It was manufactured by Canon Camera K. K. (today Canon Incorporated) in Japan from April 1976 to 1984. It uses an electronically controlled, electromagnet horizontal cloth focal plane shutter, with a speed range of 2 to 1/1000 second plus Bulb and flash X-sync of 1/60 second. The camera body is 87 mm tall, 141 mm wide, and 48 mm deep; it weighs 590 g. Most are black with chrome trim, but some are all black.\r\n\r\nThe AE-1 is a historically significant SLR, both because it was the first microprocessor-equipped SLR and because of its sales: backed by a major advertising campaign, the AE-1 sold over 5.7 million units, which made it an unprecedented success in the SLR market.",
+      "quantity": 3,
+      "category": 3
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 4,
+    "fields": {
+      "name": "Nikon F3",
+      "slug": "nikon-f3",
+      "price": "1174.00",
+      "discount": null,
+      "image": "products_images/Nikon_F3.jpg",
+      "description": "The Nikon F3 was Nikon's third professional single-lens reflex camera body, preceded by the F and F2. Introduced in March 1980, it had manual and semi-automatic exposure control whereby the camera would select the correct shutter speed (aperture priority automation). The Nikon F3 series cameras had the most model variations of any Nikon F camera. It was also the first of numerous Nikon F-series cameras to be styled by Italian designer Giorgetto Giugiaro, and to include a red stripe on the handgrip – a feature that would later become (with variants of stripes and various other shapes) a signature feature of many Nikon cameras.\r\n\r\nThe F2AS was a current model when the F3 was introduced, and for a while both were sold concurrently. The earlier Nikons had developed such a sterling reputation for extreme ruggedness and durability that many Nikon F and F2 owners were initially reluctant to transition to the new F3 from the F2 series, particularly due to the new camera needing batteries to operate. The F3 was superseded by the F4 in 1988 and the F5 in 1996. Despite being superseded by the newer cameras, it remained in production through to 2001, with over 751,000 F3s produced through September 1992. It continues to be the longest running professional grade Nikon SLR. Long after production ceased, new bodies in boxes were available throughout the world, so an exact production number is not readily available.",
+      "quantity": 2,
+      "category": 3
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 5,
+    "fields": {
+      "name": "Panasonic AG-450 Camcorder",
+      "slug": "panasonic-ag-450-camcorder",
+      "price": "1267.00",
+      "discount": "5.00",
+      "image": "products_images/Panasonic_AG-450.jpg",
+      "description": "Before smartphones and digital cameras, VHS cameras like the Panasonic AG-450 Camcorder captured special occasions such as Christmas, birthdays, and baby's first steps. This camcorder is hand held but large in size, making it best suited for a tripod. Its wide lens has an optical zoom of 10x gets you up and close to the action and renders very crisp and clear images. A boom mic over the lens insures quality sound transmission. Video recording away from a power source is accomplished through its 2V 2.3Ah SLA battery, which is recharged when the camcorder is plugged into its AC adaptor. Playback is viewed either through the camera itself or on a TV when connected via audio/visual input/output ports.",
+      "quantity": 1,
+      "category": 4
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 6,
+    "fields": {
+      "name": "JVC GR-C1",
+      "slug": "jvc-gr-c1",
+      "price": "1987.00",
+      "discount": null,
+      "image": "products_images/JVC_Victor_GR-C1_camcorder.jpg",
+      "description": "The JVC GR-C1 VideoMovie was a camcorder released in March 1984 by JVC. It was notable as the second consumer-grade all-in-one camcorder after 1983 Sony Betamovie, as opposed to earlier portable systems in which the camera and recorder were separate units linked by a cable, and as the first VHS-C camcorder.\r\nThe camera section was built around a 1/2\" Saticon pickup tube, while the recorder used a 20-minute VHS-C video cassette, which could be played back in a standard VHS VCR using an adapter. The camera was also capable of playback in the viewfinder or through a composite video cable. A separate RF modulator was available to enable connection to the aerial socket of domestic televisions.\r\nIt was also released under license and in a black finish by German company Telefunken as the 890 Movie and in a dark red by German company SABA as the VM 6700.\r\nThe GR-C1 was voted one of the top 100 gadgets of all time.\r\nUnlike the GR-C1, the Sony Betamovie could record but not play back. In 1985 Sony released three CCD-based 8-mm camcorders and stopped using Beta cassettes for consumer-grade camcorders.",
+      "quantity": 3,
+      "category": 4
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 7,
+    "fields": {
+      "name": "Atari 2600",
+      "slug": "atari-2600",
+      "price": "256.00",
+      "discount": null,
+      "image": "products_images/Atari_2600.jpg",
+      "description": "The Atari 2600 is a home video game console developed and produced by Atari, Inc. Released in September 1977 as the Atari Video Computer System (Atari VCS), it popularized microprocessor-based hardware and games stored on swappable ROM cartridges, a format first used with the Fairchild Channel F in 1976. The VCS was bundled with two joystick controllers, a conjoined pair of paddle controllers, and a game cartridge—initially Combat[3] and later Pac-Man. Sears sold the system as the Tele-Games Video Arcade. Atari rebranded the VCS as the Atari 2600 in November 1982 alongside the release of the Atari 5200.",
+      "quantity": 7,
+      "category": 1
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 8,
+    "fields": {
+      "name": "Sony Walkman WM-10",
+      "slug": "sony-walkman-wm-10",
+      "price": "235.00",
+      "discount": "13.00",
+      "image": "products_images/s-l1600.jpg",
+      "description": "Despite being a fairly early model, the WM-10 was the smallest of all the cassette-playing Walkman models. Its tiny size is amazing even now, and represents a considerable achievement in the context of what was possible in the early 80’s. The WM-10 was smaller even than the cassette it played and had to be slid open to make the cassette compartment large enough to take the tape. This of course meant that it became considerably larger before it was useful. Such practical shortcomings miss the point of the WM-10 however, as its main function was to demonstrate Sony’s continuing technical leadership by producing yet another “world’s smallest” product.",
+      "quantity": 6,
+      "category": 2
+    }
+  }
+]

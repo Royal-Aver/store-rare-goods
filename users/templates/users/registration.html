@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<section class='registration py-4'>
+    <div class="container registration__container">
+        <h2 class="text-center mb-4">Sign up</h2>
+        <form class="registration__form mb-4">
+            <div class="registration__input-inner mb-3">
+                <label for="username" class="form-label">Name</label>
+                <input type="text" class="form-control registration__input" id="username" placeholder="Enter your username">
+            </div>
+            <div class="registration__input-inner mb-3">
+              <label for="username" class="form-label">Last name</label>
+              <input type="text" class="form-control registration__input" id="username" placeholder="Enter your username">
+            </div>
+            <div class="registration__input-inner mb-3">
+              <label for="username" class="form-label">Username</label>
+              <input type="text" class="form-control registration__input" id="username" placeholder="Enter your username">
+            </div>
+            <div class="registration__input-inner mb-3">
+              <label for="username" class="form-label">Email</label>
+              <input type="text" class="form-control registration__input" id="username" placeholder="Enter your username">
+          </div>
+            <div class="registration__input-inner mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control registration__input" id="password" placeholder="Enter your password">
+            </div>
+            <div class="registration__input-inner mb-3">
+              <label for="password" class="form-label">Confirm password</label>
+              <input type="password" class="form-control registration__input" id="password" placeholder="Enter your password">
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Sign up</button>
+        </form>
+
+        <div class="registration__bottom text-center">
+            <p class='registration__bottom-text mb-3 d-inline-block'>Already have an account?</p>
+            <a class='registration__bottom-link' href="{% url "users:login" %}">Log in!</a>
+        </div>
+    </div>
+</section>
+{% endblock  %}
